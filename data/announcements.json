@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Selamat Datang di CRUD App!",
+    "content": "Aplikasi ini dibuat untuk pembelajaran API testing dengan fitur lengkap CRUD operations.",
+    "date": "2025-08-12T07:02:43.803Z"
+  },
+  {
+    "id": 2,
+    "title": "Data Persistent",
+    "content": "Sekarang data akan tersimpan di file JSON dan tidak akan hilang saat refresh!",
+    "date": "2025-08-12T07:02:43.803Z"
+  }
+]

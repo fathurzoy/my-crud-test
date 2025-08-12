@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "username": "superuser",
+    "password": "$2b$10$N10TENkmmTp9LEht25d3zeRger5iHV6/deKs.LkWl1hlMgaM0Ym6W",
+    "role": "admin",
+    "email": "superuser@admin.com"
+  }
+]

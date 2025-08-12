@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Es Teh",
+    "price": 5000,
+    "description": "Es teh manis segar"
+  },
+  {
+    "id": 2,
+    "name": "Jus Jeruk",
+    "price": 12000,
+    "description": "Jus jeruk segar tanpa gula"
+  }
+]
